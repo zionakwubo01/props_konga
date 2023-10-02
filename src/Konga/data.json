@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "img": "../assets/bed.webp",
+        "Titles": "matrass topper white -6x6 fe..",
+        "Cprice": 300000,
+        "oprice": 250000,
+        "percent":" -16",
+        "save": "save up to 23000",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    },
+    {
+        "id":2,
+        "img": "../assets/bed.webp",
+        "Titles": "living room sofa for 6 seater",
+        "Cprice": 300000,
+        "oprice": 250000,
+        "percent": "-16",
+        "save": "save up to 23000",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+
+    },
+    {
+        "id":3,
+        "img": "../assets/laptop.webp",
+
+        "Titles": "HP noteboos stream pro 11 -in",
+        "Cprice": 300000,
+        "oprice": 250000,
+        "percent": "-16",
+        "save": "save up to 23000",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+
+    },
+    {
+        "id":4,
+        "img": "../assets/ward.webp",
+        "Titles": "Mobile Steel Wardrobe - 2 column..",
+        "Cprice": 300000,
+        "oprice": 250000,
+        "percent": "-16",
+        "save": "save up to 23000",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+
+    },
+    {
+        "id":5,
+        "img": "../assets/food.jpg",
+       
+        "Titles": "Tablet 10.1 -6gb ram 256gb po..",
+        "Cprice": 300000,
+        "oprice": 250000,
+        "percent": "-16",
+        "save": "save up to 23000",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+
+    },
+    {
+        "id":6,
+        "img": "../assets/watch.webp",
+        "Titles": "Max series 8 smart watch with fr..",
+        "Cprice": 300000,
+        "oprice": 250000,
+        "percent": "-16",
+        "save": "save up to 23000",
+        "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem"
+    }
+]
